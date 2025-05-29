@@ -141,3 +141,24 @@ pip install -r requirements.txt
 
 streamlit run streamlit_app.py
 
+
+🌐 Streamlit Deployment
+Deployed to:
+🔗 https://shivramsriramulu-agentic-ai-f1-spanish-gp.streamlit.app/
+
+Streamlit is used for:
+
+Uploading and processing the JSON
+
+Displaying race simulation visualizations
+
+Highlighting podium outcomes and driver insights
+
+👨‍💻 Author
+Shivram Sriramulu
+🎓 Master’s in Data Analytics, San Jose State University
+🚀 AI x Sports Enthusiast | Predictive Modeling | MLOps
+🔗 GitHub: ShivramSriramulu
+
+📜 License
+This project is licensed under the MIT License. See LICENSE file for details.
